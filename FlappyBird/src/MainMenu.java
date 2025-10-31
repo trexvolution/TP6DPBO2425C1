@@ -9,7 +9,7 @@ public class MainMenu extends JFrame {
         setLocationRelativeTo(null);
         setResizable(false);
 
-        JButton playBtn = new JButton("Play Game"); 
+        JButton playBtn = new JButton("Play Game");
         JButton exitBtn = new JButton("Exit");
 
         playBtn.addActionListener(e -> {
