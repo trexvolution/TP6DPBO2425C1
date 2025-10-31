@@ -134,17 +134,29 @@ ESC (window)	Exit
 
 📂 Struktur Folder
 FlappyBird/
+
 │
+
 ├─ Assets/
+
 │   ├─ bird.png
+
 │   ├─ lowerPipe.png
+
 │   └─ upperPipe.png
+
 │
+
 ├─ App.java
+
 ├─ Logic.java
+
 ├─ MainMenu.java
+
 ├─ Pipe.java
+
 ├─ Player.java
+
 └─ View.java
 
 # Dokumentasi
