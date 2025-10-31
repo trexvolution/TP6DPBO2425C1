@@ -161,5 +161,4 @@ FlappyBird/
 
 # Dokumentasi
 
-https://github.com/user-attachments/assets/227e6937-2342-47a8-8014-6f0dd7c24511
-
+https://github.com/user-attachments/assets/74a7d637-7f98-4b8d-a0f1-26e87f6b5ee0
