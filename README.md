@@ -1,3 +1,8 @@
+# Janji
+
+Saya Nur Abdillah Ifhamuddin dengan NIM 2408515 mengerjakan soal Tugas Praktikum 6 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+
 # Desain Program
 
 Game Flappy Bird sederhana menggunakan Java Swing dan Timer. Pemain mengendalikan burung untuk melewati celah antar pipa dan mendapatkan skor.
